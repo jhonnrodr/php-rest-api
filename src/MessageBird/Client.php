@@ -10,7 +10,7 @@ namespace MessageBird;
 class Client
 {
     const ENDPOINT = 'https://rest.messagebird.com';
-    const CHATAPI_ENDPOINT = 'https://chat.messagebird.com/1';
+    const CHATAPI_ENDPOINT = 'https://contacts.messagebird.com/v2';
     const CONVERSATIONSAPI_ENDPOINT = 'https://conversations.messagebird.com/v1';
     const VOICEAPI_ENDPOINT = 'https://voice.messagebird.com';
     const PARTNER_ACCOUNT_ENDPOINT = 'https://partner-accounts.messagebird.com';
